@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+}
+h1{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left:10px;
+}
+.engkottadiv{
+    display: flex;
+    width: 1460px;
+}
+.divlar{
+    margin-left: 10px;
+    border: 2px solid #E0DEDF;
+    border-radius: 20px;
+    width: 230px;
+    height: 250px;
+}
+.foto1{
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    padding-right: 6px;
+    border-radius: 10px;
+    background-color: #FFF3F5;
+}
+.text1{
+    margin-top: 20px;
+    margin-left: 15px;
+    font-weight:700;
+    font-size: 20px;
+}
+.text2{
+    margin-top: 10px;
+    margin-left: 15px;
+    color: #919294;
+    width: 200px;
+}
+.foto2{
+    padding-left: 3px;
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    padding-right: 6px;
+    border-radius: 10px;
+    background-color: #FFF3F5;
+}
+.foto3{
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    padding-right: 6px;
+    border-radius: 10px;
+    background-color: #FFF3F5;
+}
+.foto4{
+    margin-top: 13px;
+    margin-left: 15px;
+    display: inline-block;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-top: 6px;
+    border-radius: 10px;
+    background-color: #FFF3F5;
+}
+.foto5{
+    
+    padding-left: 3px;
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    padding-right: 3px;
+    border-radius: 10px;
+    background-color: #FFF3F5;
+}
+.foto6{
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 10px;
+    background-color: #FFF3F5;
+}
+.text22{
+    margin-top: 10px;
+    margin-left: 15px;
+    color: #919294;
+    width: 195px;
+}
+.text23{
+    margin-top: 10px;
+    margin-left: 15px;
+    color: #919294;
+    width: 185px;
+}
+.text24{
+    margin-top: 10px;
+    margin-left: 15px;
+    color: #919294;
+    width: 185px;
+}
+.text25{
+    margin-top: 10px;
+    margin-left: 15px;
+    color: #919294;
+    width: 185px;
+}
